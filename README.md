@@ -17,12 +17,12 @@ To make even the weakest hardware feel fresh, usable, and fast again — helping
 - Show real Linux potential to the world.
 - Peaceful, non-profit-driven purpose.
 
-## 🤝 How to Contribute
+##  How to Contribute
 - Fork this repo.
 - Open Issues, pull requests.
 - Join discussions — all humans and coders welcome.
 
-## 🔗 Tools Used
+##  Tools Used
 - Gitpod Cloud Dev Environment.
 - Google Cloud Shell.
 - GitHub for team building & transparency.
