@@ -2,16 +2,16 @@
 
 A revolutionary ultra-light Linux-based OS designed to revive old laptops, reduce global e-waste, and show the world the true beauty and power of Linux.
 
-## 🌱 Vision
+##  Vision
 To make even the weakest hardware feel fresh, usable, and fast again — helping NGOs, schools, and millions who cannot afford modern tech.
 
-## 🚀 Goals (Phase 1)
+##  Goals (Phase 1)
 - Build a working ElementaryOS/Debian lightweight fork.
 - Cloud-based development (Gitpod + Google Cloud Shell).
 - 100% Open-Source first prototype.
 - Invite global contributors to join.
 
-## 💡 Why Dragnfruit OS?
+##  Why Dragnfruit OS?
 - Old PCs reborn for modern tasks.
 - Reduce digital waste.
 - Show real Linux potential to the world.
